@@ -1,4 +1,4 @@
-# Sipeed Tang Primer 20K – Dual‑UART Playground
+# Sipeed Tang Primer 20K – Dual‑UART Data Exchange
 
 ## Overview
 The long‑term goal is to build a **bidirectional bridge** that moves framed data between two UART links and, eventually, to experiment with a **custom application‑level protocol** riding over those UARTs.  
@@ -86,4 +86,4 @@ frame len = 64
 * *LiteX* and *Migen* – Enjoy‑Digital  
 * *VexRiscv* soft‑CPU – Charles Papon  
 * *Tang Primer 20K* board – Sipeed  
-* Project maintained by **Your‑Name‑Here**
+* Project maintained by **yellow_emperor**
